@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Using React, Node.js, to build a netflix clone that shows updated movies and also plays movies trailer when you click on a movie.",
     image: "/images/1.png",
-    tags: ["React", "Node"],
+    tags: ["React", "Javascript"],
     source: "https://elastic-turing-e44607.netlify.app/",
     visit: "https://github.com/remiabduls/netflix-clone1.git",
     id: 0,
@@ -30,13 +30,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Unichat",
+    title: "Airbnb Clone",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+      "This is an airbnb clone frontend and deployed on netlify. It consists of all the airbnb functions and uses components like date range and material ui-core.",
     image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    tags: ["React", "Airbnb", "Netlify"],
+    source: "https://hungry-roentgen-501ad5.netlify.app/",
+    visit: "https://github.com/remiabduls/airbnb-clone.git",
     id: 3,
   },
 ];
