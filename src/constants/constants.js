@@ -39,6 +39,16 @@ export const projects = [
     visit: "https://github.com/remiabduls/airbnb-clone.git",
     id: 3,
   },
+  {
+    title: "Todo App",
+    description:
+      "This ia todo list app built on reactjs. It has all the important functions a todo app should contain and was deployed with netlify.",
+    image: "/images/5.jpg",
+    tags: ["React", "Todo", "Netlify"],
+    source: "https://trusting-jepsen-fb24ab.netlify.app/",
+    visit: "https://github.com/remiabduls/todo-list.git",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
