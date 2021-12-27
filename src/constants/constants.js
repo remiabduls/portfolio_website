@@ -49,6 +49,27 @@ export const projects = [
     visit: "https://github.com/remiabduls/todo-list.git",
     id: 4,
   },
+  {
+    title: "Wave Portal",
+    description:
+      "This is a wave portal built with solidity and reactjs. It communicates with metamask and stores our messages or waves on chain. It was built with a testnet network.",
+    image: "/images/6.jpg",
+    tags: ["React", "wavePortal", "Repli, Solidity"],
+    source: "https://waveportal-starter-project.remilekunabduls.repl.co",
+    visit: "https://github.com/remiabduls/waveportal-web3.git",
+    id: 5,
+  },
+  {
+    title: "CharityDAO",
+    description:
+      "This is a DAO website built with just javascript. It communicates with metamask and allows holders of its token to vote. It also has the function of airdroping token and all the contracts can be verified on the etherscan . It was built on RINKEBY testnet network.",
+    image: "/images/7.jpg",
+    tags: ["React", "wavePortal", "Repli"],
+    source: "https://buildspace-dao-starter-1.remilekunabduls.repl.co/",
+    visit: "https://github.com/remiabduls/build-dao.git",
+    id: 6,
+  },
+  
 ];
 
 export const TimeLineData = [
