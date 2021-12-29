@@ -35,7 +35,7 @@ export const projects = [
       "This is an airbnb clone frontend and deployed on netlify. It consists of all the airbnb functions and uses components like date range and material ui-core.",
     image: "/images/4.jpg",
     tags: ["React", "Airbnb", "Netlify"],
-    source: "https://hungry-roentgen-501ad5.netlify.app/",
+    source: "https://sad-poitras-fc2782.netlify.app/",
     visit: "https://github.com/remiabduls/airbnb-clone.git",
     id: 3,
   },
